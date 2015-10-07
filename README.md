@@ -10,6 +10,6 @@ and they couldn't explain it to the class. I thought the implementation should b
 # Installing and using
 
 ```shell
-$ go get github.com/odeke-em/pretty-words
+$ go get github.com/odeke-em/pretty-words/cmd/pretty-words
 $ pretty-words <content>
 ```

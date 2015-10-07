@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	prettywords "github.com/odeke-em/pretty-words/src"
+	prettywords "github.com/odeke-em/pretty-words"
 )
 
 func main() {
